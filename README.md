@@ -20,7 +20,7 @@ Done in three steps:
 3. Music Recommendation: Using detected emotion to create a search query on Youtube
 
 The model is trained for 50 epochs and runs at 87% accuracy.
-![image]()
+![image](modelrunn.png)
 
 
 ### Features
@@ -69,5 +69,6 @@ dlib==19.24.4
 ### References
 - [Emotional Detection and Music Recommendation System
 based on User Facial Expression - S Metilda Florence and M Uma](https://iopscience.iop.org/article/10.1088/1757-899X/912/6/062007/pdf)
+
 
 
