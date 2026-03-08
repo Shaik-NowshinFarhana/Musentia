@@ -25,7 +25,7 @@ The model is trained for 50 epochs and runs at 87% accuracy.
 
 ### Features
 1. Landing Page
-![image] (https://github.com/Shaik-NowshinFarhana/Musentia/blob/05cbd02ae17a5d1329394eb0ba4671e33abd07af/images/landing%20page.png)
+![image]("https://github.com/Shaik-NowshinFarhana/Musentia/blob/05cbd02ae17a5d1329394eb0ba4671e33abd07af/images/landing%20page.png")
 
 2. Detection of various emotions like [Sad, Angry, Happy, Neutral, Surprise]
  
@@ -69,6 +69,7 @@ dlib==19.24.4
 ### References
 - [Emotional Detection and Music Recommendation System
 based on User Facial Expression - S Metilda Florence and M Uma](https://iopscience.iop.org/article/10.1088/1757-899X/912/6/062007/pdf)
+
 
 
 
