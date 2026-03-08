@@ -25,11 +25,11 @@ The model is trained for 50 epochs and runs at 87% accuracy.
 
 ### Features
 1. Landing Page
-![image]("https://github.com/Shaik-NowshinFarhana/Musentia/blob/05cbd02ae17a5d1329394eb0ba4671e33abd07af/images/landing%20page.png")
+![image](landing page.png)
 
-2. Detection of various emotions like [Sad, Angry, Happy, Neutral, Surprise]
+3. Detection of various emotions like [Sad, Angry, Happy, Neutral, Surprise]
  
-3. Detection of various gestures like [Hello, Thumbsup, Nope, Rock]
+4. Detection of various gestures like [Hello, Thumbsup, Nope, Rock]
 
 
 
